@@ -1,6 +1,6 @@
 # timer
 
-## Output
+### Output
 
 <img src = "https://github.com/user-attachments/assets/01a5684a-2a09-402c-9917-5be6f065d363" width="200">
 <img src = "https://github.com/user-attachments/assets/efe1002b-eda8-4531-b436-164868a96edd" width="200">
